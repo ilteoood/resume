@@ -1,0 +1,206 @@
+\documentclass[10pt,a4paper]{altacv}
+
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.2cm,bottom=1cm}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[default]{lato}
+\usepackage[pdfborder={0 0 0}]{hyperref}
+
+\definecolor{VividPurple}{HTML}{AA1645}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+\addbibresource{publications.bib}
+
+\begin{document}
+\name{Matteo Pietro Dazzi}
+\tagline{Software Engineer}
+\photo{2.5cm}{me}
+
+\personalinfo{
+% Add your own with \printinfo{symbol}{detail}
+  \email{\href{mailto:matteopietro.dazzi@gmail.com}{matteopietro.dazzi@gmail.com}}
+  \phone{+39 (370)-344-6446}
+  \mailaddress{Via Alessandro Volta 50, Rho, MI 20017, Italy}
+  \location{Rho}
+  %\homepage{\href{http://ilteoood.xyz}{ilteoood.xyz}}
+  %\twitter{\href{https://twitter.com/ilteoood}{@ilteoood}}
+ \linkedin{\href{https://www.linkedin.com/in/iLTeoooD}{Matteo Pietro Dazzi}}
+ \github{\href{https://github.com/iLTeoooD}{iLTeoooD}}
+ \medium{\href{https://medium.com/@iLTeoooD}{@iLTeoooD}}
+ \homepage{\href{https://ilteoood.xyz}{https://ilteoood.xyz}}
+}
+
+\begin{adjustwidth}{}{-8cm}
+\makecvheader
+\end{adjustwidth}
+
+\cvsection[sidebar_first_page]{Work}
+
+\cvevent{Full Stack Software Engineer}
+{\href{https://studioform.org/}{GFT Italia S.r.l - for Studioform}}
+{October 2020 -- Now}{Remote working}
+In this project I have joined 2 different teams, each ones with at least 4 developers.
+\newline
+The work method follows the \textbf{Scrum Principles}.
+\newline\newline
+Dedalus Team, \textbf{Front-End}:
+\begin{itemize}
+	\item \textbf{Reorganization of the structure} of the \textbf{Angular 10} app.
+	\item Realization of core functionality of a text editor, based on \textbf{\href{https://prosemirror.net/}{Prosemirror}}.
+	\item Creation of the \textbf{TypeScript} types.
+	\item Definition and execution of the \textbf{linting rules}.
+	\item Production of the \textbf{Angular templates}.
+	\item Training colleagues on \textbf{Angular} ecosystem.
+\end{itemize}
+\leavevmode \newline
+Icarus Team, \textbf{Full Stack}:
+\begin{itemize}
+	\item Creation and publication of custom \textbf{Docker} images on \textbf{Docker Hub}.
+	\item Deployment and versioning of \textbf{Docker Compose} files.
+	\item \textbf{Docker Compose} stacks management with \textbf{Portainer}.
+	\item Deployment and management of a \textbf{RabbitMQ cluster}.
+	\item Realization of a new microservice and \textit{Rest APIs} in \textbf{Java 8} and \textbf{Spring Boot}.
+	They have been configured to work with \textbf{Eureka} and they have been tested with \textbf{JUnit 5}.
+	\item Evolution of the \textbf{Angular 8} application.
+\end{itemize}
+\divider
+
+\cvevent{Lead Front End Engineer}
+{GFT Italia S.r.l - for Pegasus Project}
+{August 2020 -- Now}{Remote working}
+Design and realization of the web console used by \textit{Irish banks} to manage the \textit{Pegasus payment system}.
+\newline
+\begin{itemize}
+	\item Creation and documentation of the \textit{Pegasus} app architecture.
+	\item Development of some pages, using the \textbf{Reactive Pattern}.
+	\item Training a colleague on the usage of \textbf{RxJS} and \textbf{Akita State Manager}.
+	\item Deployment of \textit{Pegasus} console on internal server and on \textbf{Netlify} using a custom \textbf{GitLab pipeline} and \textbf{Docker Runner}.
+	\item Creation of a status notification channel on \textbf{Microsoft Teams}.
+	\item Realization of a \textbf{Cypress} test suite executed at every code \textit{push}.
+	\item Documentation of the web console \textit{APIs} using \textbf{OpenAPI 3.0 specification}.
+	\item Automatic \textbf{TypeScript} models generation using \textbf{Swagger codegen}.
+	\item Active participation in internal strategic meetings and \textbf{working hand in hand with the Delivery Manager}.
+\end{itemize}
+\divider
+
+{\marginpar{\vspace*{-3em}\raggedright\input{sidebar_second_page}}}
+\cvevent{Lead Front End Engineer}{\href{https://www.compass.it/}{GFT Italia S.r.l - for Compass}}{February 2020 -- August 2020}{Remote working}
+\begin{itemize}
+	\item Development of a \textbf{StencilJS WebComponent} fully customizable using \textbf{Google Analytics}.
+	\item Active participation in strategic meetings and \textbf{work hand in hand with the customer and its suppliers}.
+\end{itemize}
+
+\divider
+
+\cvevent{Front End Developer}
+{\href{https://www.compass.it/}{GFT Italia S.r.l - for Compass}}
+{November 2019 -- November 2020}{Milan, Italy}
+\begin{itemize}
+	\item Maintenance and evolution of a \textbf{JQuery toolkit}.
+	\item Inclusion of \textbf{TensorFlow JS} for image recognition.
+	\item Active participation in strategic meetings and \textbf{work hand in hand with the customer and its suppliers}.
+\end{itemize}
+
+\divider
+
+\cvevent{Mobile Developer}
+{\href{https://www.pagopa.gov.it/}{GFT Italia S.r.l - for PagoPA}}
+{August 2019 -- February 2020}{Milan, Italy}
+Maintenance and evolution of a mobile \textbf{SDK} for the payments to the \textit{italian public administration}.
+\newline
+\begin{adjustwidth}{0cm}{-8cm}
+\begin{itemize}
+	\item The \textit{Android} part of the SDK has been made in \textbf{Java}.
+	\item The \textit{iOS} part of the SDK has been made in \textbf{Objective C}.
+	\item The core \textit{business logic} has been made using the \textbf{native C++ code}.
+	\item Active participation in internal strategic meetings and \textbf{work hand in hand with the Delivery Manager}.
+\end{itemize}
+
+\divider
+
+\cvevent{Code reviewer}
+{\href{https://www.intesasanpaolo.com/}{GFT Italia S.r.l - for Intesa San Paolo}}
+{October 2019 -- December 2019}{Milan, Italy}
+\begin{itemize}
+	\item Review, discussion and merge of the \textbf{Java} code produced by collegues.
+	\item Training colleagues on \textbf{Git Flow}.
+	\item Creation of a status notification channel on \textbf{Microsoft Teams}.
+	\item \textit{Rest APIs} test automation using \textbf{Postman}.
+\end{itemize}
+
+\divider
+
+\cvevent{Lead Full Stack Developer}
+{\href{https://www.forexchange.it/}{GFT Italia S.r.l - for Maccorp Italiana S.p.A.}}
+{June 2019 -- November 2020}{Milan, Italy}
+Evolution of the new \textit{Forexchange.it} e-commerce.
+\newline 
+\begin{itemize}
+	\item Migration of the \textbf{Angular} app from \textit{v5} to \textit{v6}.
+	\item Maintenance and evolution of the \textbf{NodeJS} \textit{Rest APIs}.
+	\item Insertion of a \textbf{Redis cache} to interact with an external tour operator.
+	\item Setup of \textbf{GitLab pipelines} and \textbf{Redmine}.
+	\item Creation of a status notification channel on \textbf{Microsoft Teams}.
+	\item Migration of the payment system from \textit{Nexi} to \textit{Mercury - MonetaWeb}.
+	\item Active participation in strategic meetings and \textbf{work hand in hand with the Project Sponsor and the customer}.
+\end{itemize}
+
+\divider
+
+\cvevent{Full Stack Developer}
+{\href{https://www.chebanca.it/}{GFT Italia S.r.l - for CheBanca!}}
+{September 2016 -- Now}{Milan, Italy}
+Realization and Evolution of the \textit{CheBanca!'s 3.0 Multichannel Portal}.
+\newline
+The maximum team composition was \textbf{35 people}.
+\newline
+\begin{itemize}
+	\item Realization of the front-end functionalities with \textbf{AngularJS}, all organized in \textbf{AMD modules} loaded by \textbf{RequireJS}.
+	\item Migration of the \textit{Rest APIs} from \textbf{Layer 7 API Management} to a \textbf{Spring Integration microservices} architecture.
+	\item \textit{Microservices} tests with \textbf{Mockito} and \textbf{JUnit 4}.
+	\item Review and merge of all the code produced by me and my collegues.
+	\item \textit{Rest APIs} documentation using \textbf{OpenAPI 2.0 specification}.
+	\item Maintenance and evolution of the \textit{UI Toolkit} used by all the portals.
+	\item Creation of a \textit{PoC} to upgrade the \textit{UI Toolkit} to \textbf{WebComponents}, generated by \textbf{Yeoman}.
+	\item Work closely to the collegues, to help them overcome every obstacle.
+	\item Training colleagues on code quality and the \textit{CheBanca architecture}.
+	\item Active participation in internal strategic meetings and \textbf{work hand in hand with the Delivery Manager and the customer}.
+\end{itemize}
+
+\divider
+
+\cveventlocation{Company initiatives}
+{\href{https://www.gft.com/it/it/index/}{GFT Italia S.r.l}}
+{Milan, Italy}
+Realization and Evolution of the \textit{CheBanca!'s 3.0 Portal}. 
+\newline
+The new portal is used for the \textit{HomeBanking}, by the \textit{branches} and by the \textit{financial advisors}.
+\newline
+\begin{itemize}
+	\item Presentation about the \textbf{Clean Coding} importance.
+	\item Migration of a \textit{microservices PoC} from company's server to \textbf{IBM Cloud} using \textbf{Kubernetes}.
+	\item \textit{Smart Classifier} project for the \textbf{IBM Watson Build 2018} competition.
+	\item Presentation about the \textbf{Contract First approach to the API development}.
+	\item Technical recruiter
+\end{itemize}
+
+\cvsection{Publications}
+
+\nocite{*}
+
+\printbibliography[heading=pubtype,
+title={\printinfo{\faBook}{\href{https://medium.com/@iLTeoooD}{Medium articles}}},
+type=book]
+
+\end{adjustwidth}
+
+\end{document}
+
