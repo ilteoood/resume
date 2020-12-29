@@ -35,6 +35,22 @@
       \verb https://medium.com/gft-engineering/docker-why-multi-arch-images-matters-927397a5be2e
       \endverb
     \endentry
+    \entry{ImportanceSelfImprovementMedium}{book}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{title}{The importance of self improvement, or better: the awareness of inadequacy}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ilteoood.medium.com/the-importance-of-self-improvement-or-better-the-awareness-of-inadequacy-b6c17026c720
+      \endverb
+      \verb{url}
+      \verb https://ilteoood.medium.com/the-importance-of-self-improvement-or-better-the-awareness-of-inadequacy-b6c17026c720
+      \endverb
+    \endentry
     \entry{WebComponentsMedium}{book}{}
       \field{sortinit}{W}
       \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}

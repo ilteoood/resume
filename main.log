@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.1)  29 DEC 2020 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.1)  29 DEC 2020 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,10 +1148,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30791 strings out of 479485
- 613138 string characters out of 5873943
- 1377153 words of memory out of 5000000
- 47311 multiletter control sequences out of 15000+600000
+ 30795 strings out of 479485
+ 613313 string characters out of 5873943
+ 1377184 words of memory out of 5000000
+ 47314 multiletter control sequences out of 15000+600000
  850157 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  122i,13n,124p,1149b,1129s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1165,10 +1165,10 @@ t/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-dist/fonts
 /type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/typoland/lato/Lato-Regular.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pu
 blic/cm-super/sftt1000.pfb>
-Output written on main.pdf (3 pages, 460329 bytes).
+Output written on main.pdf (3 pages, 461790 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
