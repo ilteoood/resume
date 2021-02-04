@@ -21,7 +21,7 @@
   \datalist[entry]{nyt/global//global/global}
     \entry{DockerMedium}{book}{}
       \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
@@ -37,7 +37,7 @@
     \endentry
     \entry{ImportanceSelfImprovementMedium}{book}{}
       \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
@@ -53,7 +53,7 @@
     \endentry
     \entry{WebComponentsMedium}{book}{}
       \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
