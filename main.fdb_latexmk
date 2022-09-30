@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1664464067 "main.bcf" "main.bbl" "main" 1664464620
-  "main.bcf" 1664464620 107312 40dcb6425948ac2c8d0326bf7b7a2f9e "pdflatex"
-  "publications.bib" 1664464618 705 9457abe77b45cd653b5c1570690227ae ""
+["biber main"] 1664464067 "main.bcf" "main.bbl" "main" 1664539976
+  "main.bcf" 1664539976 107312 40dcb6425948ac2c8d0326bf7b7a2f9e "pdflatex"
+  "publications.bib" 1664539974 705 9457abe77b45cd653b5c1570690227ae ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1664464618 "main.tex" "main.pdf" "main" 1664464620
+["pdflatex"] 1664539974 "main.tex" "main.pdf" "main" 1664539976
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -197,15 +197,15 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1661995607 4595808 4484cc1ac2dfc982862142b6020d440c ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1661995687 2880917 d7e5575f6e7a46666da5246ced5cbde0 ""
   "/opt/texlive/texdir/texmf.cnf" 1661995598 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "altacv.cls" 1664464618 8505 5f12db84904dd95e653190c98b8267b5 ""
-  "main.aux" 1664464620 981 647484345b023027d0434e6bf0903ee7 "pdflatex"
-  "main.bbl" 1664464618 2526 93328ecc92c80289213e86213373a611 "biber main"
+  "altacv.cls" 1664539974 8505 5f12db84904dd95e653190c98b8267b5 ""
+  "main.aux" 1664539976 981 647484345b023027d0434e6bf0903ee7 "pdflatex"
+  "main.bbl" 1664539974 2526 93328ecc92c80289213e86213373a611 "biber main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 1664464620 2313 1c9499318db89e425f4675dfeec73569 "pdflatex"
-  "main.tex" 1664464618 10446 342b4f898b086ddc9d0627fc39f70103 ""
-  "me.png" 1664464618 274830 c609529127511187d0bad9563cd53d71 ""
-  "sidebar_first_page.tex" 1664464618 1397 011ce6df99d5c1fbf76be036225d6439 ""
-  "sidebar_second_page.tex" 1664464618 759 c186bf39065c3875672e1fdc831c877c ""
+  "main.run.xml" 1664539976 2313 1c9499318db89e425f4675dfeec73569 "pdflatex"
+  "main.tex" 1664539974 10445 badfb3d1a83ef282614b4ae3e1413ee1 ""
+  "me.png" 1664539974 274830 c609529127511187d0bad9563cd53d71 ""
+  "sidebar_first_page.tex" 1664539974 1397 011ce6df99d5c1fbf76be036225d6439 ""
+  "sidebar_second_page.tex" 1664539974 759 c186bf39065c3875672e1fdc831c877c ""
   (generated)
   "main.aux"
   "main.bcf"
