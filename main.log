@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  30 SEP 2022 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  30 SEP 2022 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,7 +1148,7 @@ t/fonts/type1/typoland/lato/Lato-Bold.pfb></opt/texlive/texdir/texmf-dist/fonts
 /type1/typoland/lato/Lato-Italic.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/typoland/lato/Lato-Regular.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pu
 blic/cm-super/sftt1000.pfb>
-Output written on main.pdf (4 pages, 447249 bytes).
+Output written on main.pdf (4 pages, 447782 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
